@@ -19,7 +19,7 @@
 
 3、--在conv.py的__all__里添加名字
 ----在ultralytics/nn/modules/__init__.py 添加名字
-----在ultralytics/nn/tasks.py 添加名字
+----在ultralytics/nn/tasks.py 添加名字from ultralytics.nn.modules import 加入名字
 
 4、在ultralytics/nn/tasks.py添加配置
 
